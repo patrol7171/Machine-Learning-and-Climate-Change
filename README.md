@@ -1,5 +1,5 @@
 ***
-# <font color=purple>**Using Machine Learning To Predict The Weather in Charlotte, NC**</font> 
+# <font color=purple>**Using Machine Learning To Predict Local Weather**</font> 
 ***
 
 
